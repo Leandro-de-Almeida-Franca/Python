@@ -5,7 +5,7 @@ str -> string -> texto
 """
 
 #Aspas simples
-print('Aqui está um exmplo de sting')
+print('Aqui está um exmplo de string')
 #Aspas duplas
 print("Outro Exemplo")
 #Escape
